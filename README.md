@@ -1,7 +1,3 @@
-This is a clean, professional, and high-tech `README.md` for your GitHub repository. It reflects the **iWrap** brand and the **Rasail** industrial design aesthetic.
-
-***
-
 # 📟 iWrap 2025
 ### Unpack your 2025 Instagram footprint with industrial precision.
 
@@ -98,3 +94,4 @@ Built using the **Rasail High-Scale Infrastructure** design language.
 MIT License - feel free to fork and build your own protocols.
 
 *Note: iWrap is an independent project and is not affiliated with, authorized, maintained, sponsored, or endorsed by Meta or Instagram.*
+
