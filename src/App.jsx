@@ -263,7 +263,7 @@ const App = () => {
             {/* 9:16 Instagram Story Card */}
             <div
               ref={shareCardRef}
-              className="w-[340px] h-[604px] bg-black border border-white/20 p-8 relative overflow-hidden flex flex-col justify-between"
+              className="w-[340px] h-[644px] bg-black border border-white/20 p-8 relative overflow-hidden flex flex-col justify-between"
             >
               <div className="absolute inset-0 opacity-[0.05] pointer-events-none"
                    style={{ backgroundImage: `linear-gradient(#fff 1px, transparent 1px), linear-gradient(90deg, #fff 1px, transparent 1px)`, backgroundSize: '20px 20px' }} />
@@ -305,7 +305,8 @@ const App = () => {
 
                   <div className="pt-8">
                     <p className="text-[9px] font-mono text-white/30 uppercase tracking-[0.3em] mb-2">MVP Connection</p>
-                    <p className="text-2xl font-black uppercase italic border-l-4 border-emerald-500 pl-4 truncate">{stats.topDMs[0]?.name}</p>
+                    <p className="text-2xl font-black italic border-l-4 border-emerald-500 pl-4">{stats.topDMs[0]?.name}</p>
+                    <p className="text-[8px] font-mono text-white/40 uppercase tracking-widest mt-1">with {(stats.topDMs[0]?.count || 0).toLocaleString()} messages</p>
                   </div>
                 </div>
               </div>
