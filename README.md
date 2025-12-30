@@ -33,27 +33,6 @@
 - **Icons:** [Lucide React](https://lucide.dev/)
 - **Styling:** [Tailwind CSS](https://tailwindcss.com/)
 - **Export Engine:** [html2canvas](https://html2canvas.hertzen.com/)
-
----
-
-## 📦 Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/iwrap.git
-   cd iwrap
-   ```
-
-2. **Install dependencies:**
-   ```bash
-   npm install
-   ```
-
-3. **Run the development server:**
-   ```bash
-   npm run dev
-   ```
-
 ---
 
 ## 📂 How to use iWrap
@@ -67,7 +46,7 @@
 2. **Unzip the file:**
    - Once Meta sends your data, download and unzip the folder.
 3. **Analyze:**
-   - Open **iWrap**, click **"Inject Archive"**, and select the root folder named `your_instagram_activity`.
+   - Open **iWrap** https://i-wrap.vercel.app , click **"Inject Archive"**, and select the root folder named `your_instagram_activity`.
    - Watch the **Debug Terminal** process your nodes.
    - Navigate through your 2025 recap and download your **Story Protocol**.
 
@@ -94,5 +73,6 @@ Built using the **Rasail High-Scale Infrastructure** design language.
 MIT License - feel free to fork and build your own protocols.
 
 *Note: iWrap is an independent project and is not affiliated with, authorized, maintained, sponsored, or endorsed by Meta or Instagram.*
+
 
 
