@@ -212,7 +212,7 @@ const App = () => {
         content: (
           <div className="px-10 space-y-8">
             <h2 className="text-3xl font-black uppercase tracking-tighter flex items-center gap-3 italic">
-              <Target className="text-emerald-500" /> Top Nodes
+              <Target className="text-emerald-500" /> Top Messages
             </h2>
             <div className="space-y-4">
               {stats.topDMs?.map((dm, i) => (
@@ -436,3 +436,4 @@ const App = () => {
 };
 
 export default App;
+
