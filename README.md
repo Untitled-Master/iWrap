@@ -6,7 +6,7 @@
 ![React](https://img.shields.io/badge/Framework-React_18-61DAFB)
 ![Tailwind](https://img.shields.io/badge/Style-Tailwind_CSS-38B2AC)
 
-**iWrap** is a high-performance, privacy-focused web application that transforms your raw Instagram data export into a cinematic "Wrapped" experience. Built with a sharp, industrial aesthetic (Rasail Design Language), it analyzes your messages, likes, and stories locally in your browser.
+**iWrap** is a high-performance, privacy-focused web application that transforms your raw Instagram data export into a cinematic "Wrapped" experience. Built with a sharp, industrial aesthetic, it analyzes your messages, likes, and stories locally in your browser.
 
 ---
 
@@ -94,4 +94,5 @@ Built using the **Rasail High-Scale Infrastructure** design language.
 MIT License - feel free to fork and build your own protocols.
 
 *Note: iWrap is an independent project and is not affiliated with, authorized, maintained, sponsored, or endorsed by Meta or Instagram.*
+
 
